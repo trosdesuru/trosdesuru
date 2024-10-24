@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Eduard Hernández
 
 I'm a passionate **Web Designer** and **Full-Stack Developer** with a strong focus on creating visually appealing and user-centered digital experiences.
 I love combining the world of **UI/UX design** with **full-stack development** to deliver seamless, engaging web applications.
