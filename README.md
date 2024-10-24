@@ -49,7 +49,7 @@ My journey started in web design, but I quickly expanded my skill set to include
 *ISDI Coders - Barcelona*  
 Graduated in October 2024
 
-**Software-Engineering Developer**  
+**Software-Engineering**  
 *École 42 - Barcelona*  
 From October 2023
 
