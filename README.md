@@ -37,13 +37,13 @@ My journey started in web design, but I quickly expanded my skill set to include
 - **Backend Development**: Developing scalable APIs and backends using **Node.js**, **MongoDB**, and related technologies.
 - **Design Tools**: Proficient with **Figma** and the **Adobe Creative Suite** for designing layouts, prototypes, and graphics.
 
-## 🆒 I'm Passionate About
+## ✨ I'm Passionate About
 
 - Creating intuitive and engaging user experiences.
 - Writing clean, scalable code that bridges the gap between design and development.
 - Continuous learning—always looking for new challenges to expand my skill set!
 
-## 🎒 Recent Education
+## 👨🏽‍🎓 Recent Education
 
 **Full-Stack Developer**  
 *ISDI Coders - Barcelona*  
