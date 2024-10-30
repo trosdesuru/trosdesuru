@@ -52,7 +52,7 @@ My journey started in web design, but I quickly expanded my skill set to include
 
 **Software-Engineering**  
 *École 42 - Barcelona*
-*From October 2023*
+*from October 2023*
 
 ## 📫 Get in Touch
 
