@@ -34,7 +34,7 @@ My journey started in web design, but I quickly expanded my skill set to include
 ## 🖥 My Expertise
 
 - **Web Design**: Crafting responsive and visually compelling interfaces with a strong focus on UX/UI principles.
-- **Frontend Development**: Building dynamic, user-friendly interfaces using **React**, **JavaScript**, and **CSS**.
+- **Frontend Development**: Building dynamic, user-friendly interfaces using **React**, **JavaScript**, **Tailwindcss** and **CSS** as well.
 - **Backend Development**: Developing scalable APIs and backends using **Node.js**, **MongoDB**, and related technologies.
 - **Design Tools**: Proficient with **Figma** and the **Adobe Creative Suite** for designing layouts, prototypes, and graphics.
 
