@@ -2,6 +2,7 @@
 
 I'm a passionate **Web Designer** and **Full-Stack Developer** with a strong focus on creating visually appealing and user-centered digital experiences.
 I love combining the world of **UI/UX design** with **full-stack development** to deliver seamless, engaging web applications.
+Explore my journey and projects in more detail through my <a href="https://eduardhernandez.vercel.app/" target="_blank">online CV</a>
 
 My journey started in web design, but I quickly expanded my skill set to include **full-stack development**, making me comfortable working across the entire product lifecycle—from user research to coding and deployment.
 
