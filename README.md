@@ -59,7 +59,3 @@ My journey started in web design, but I quickly expanded my skill set to include
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eduard-hernandez-ventos)
 - [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?logo=devdotto&logoColor=fff)](https://dev.to/eduhvdev)
-
-## 🖥  Working Time
-
-[![wakatime](https://wakatime.com/badge/user/7f8d6858-6a4f-49fc-b919-5aeebc686a5a/project/df73d81a-017d-4a7a-a4a5-5c498ac6f661.svg)](https://wakatime.com/badge/user/7f8d6858-6a4f-49fc-b919-5aeebc686a5a/project/df73d81a-017d-4a7a-a4a5-5c498ac6f661)
