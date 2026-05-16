@@ -2,7 +2,7 @@
 
 *Bridging the gap between human-centered design and high-performance system architecture.*
 
-[Interactive CV](https://eduardhernandez.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/eduard-hernandez-ventos)
+[Interactive CV](https://eduardhernandez.vercel.app/) | [Portfolio](https://eduardhernandez-portfolio.vercel.app/) | [Design & Dev Studio](https://www.suruestudio.com/) | [LinkedIn](https://www.linkedin.com/in/eduard-hernandez-ventos)
 
 ### Stack & Tools
 <p align="left">
