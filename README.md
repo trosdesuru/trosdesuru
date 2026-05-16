@@ -7,6 +7,6 @@
 ### Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,python,nodejs,c,figma,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,mongodb,python,c,cpp,git,npm,vscode,vim,figma,ps,ai,pr&perline=11" alt="Tech Stack" />
   </a>
 </p>
